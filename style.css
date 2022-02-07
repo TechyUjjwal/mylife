@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    background-color: lime;
+}
+h1{
+    font-family: fantasy;
+    color: red;
+    font-size: 25px;
+    font-weight: 200;
+}
+img:hover{
+    transform: scale(0.8);
+}
+img{
+    transition: transform 0.2; 
+}
